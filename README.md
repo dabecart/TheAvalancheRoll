@@ -32,8 +32,6 @@ Useless. Over-engineered. Dubious quality. All seals of @dabecart work!
 
 Hope you enjoy it!
 
-<img src="Images/TheDice2.png" width="600"/>
-
 # How to use
 
 Please, refer to the [user guide](TheAvalancheRoll_UserGuide.pdf). Thanks!
@@ -52,6 +50,12 @@ When I first launched this project I was really surprised to be approached by th
 - I have been able to fix some of the minor bugs I found on the first version of the dice, such as sporadic number bursts. 
 - I've made the power board into a PCB! Yipee! 
 - New look! I've also added new patters to the structure of the dice. Hope you like it!
+
+# Photo album
+
+Check the [Google Photos album](https://photos.app.goo.gl/XxesUJSZd3JCvjf18) with photos and a video of the project!
+
+<img src="Images/AvalancheCollage.jpg" width="600"/>
 
 # PCBWay - PCB Manufacturing and Assembly
 <img src="Images/PCBWayLogo.png" width="300"/>
