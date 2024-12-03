@@ -1,4 +1,4 @@
-<img src="Images/SponsoredBanner.png" width="600"/>
+<img src="Images/SponsoredBanner.png" width="800"/>
 
 This project was sponsored by [**PCBWay**](#pcbway---pcb-manufacturing-and-assembly)!
 
